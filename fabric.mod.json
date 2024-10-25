@@ -1,0 +1,11 @@
+{
+    "schemaVersion": 1,
+    "authors": [],
+    "environment": "*",
+    "name": "Joys transformers addon",
+    "id": "joys_transformers_addonpack",
+    "version": "0",
+    "description": "Addon pack for palladium about transformers",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

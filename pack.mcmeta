@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "id": "joys_transformers_addonpack",
+    "description": "Addon pack for palladium about transformers",
+    "pack_format": 15,
+    "version": "0"
+  },
+  "dependencies": {
+    "common": {
+    },
+    "fabric": {
+    },
+    "forge": {
+    }
+  }
+}
